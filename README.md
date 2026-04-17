@@ -1,6 +1,6 @@
 # deploy_agent_sampsonfoli16
 # Guidelines, Repository Structure, and Process
-
+#walk_through_video(https://drive.google.com/file/d/1vmcH2-EVhZWXafiiteCYT_trSqOjbiG9/view?usp=drive_link)
 ## Before You Start
 
 Follow these steps before working with the project:
